@@ -1,0 +1,5 @@
+{
+  "name": "LinkShare",
+  "description": "A real-time link sharing application where admins can post links and users can view them.",
+  "requestFramePermissions": []
+}
